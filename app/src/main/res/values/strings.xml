@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DictionaryQuizjApp</string>
+
+    <string-array name="words">
+        <item>Marty</item>
+        <item>Frank</item>
+        <item>Brad</item>
+    </string-array>
+</resources>
